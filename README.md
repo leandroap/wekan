@@ -39,10 +39,10 @@ with [Meteor](https://www.meteor.com).
 [sandstorm_market]: https://oasis.sandstorm.io/appdemo/m86q05rdvj14yvn78ghaxynqz7u2svw6rnttptxx49g1785cdv1h
 [docker_image]: https://hub.docker.com/r/mquandalle/wekan/
 [heroku_button]: https://www.herokucdn.com/deploy/button.png
-[heroku_deploy]: https://heroku.com/deploy?template=https://github.com/wekan/wekan/tree/master
+[heroku_deploy]: https://heroku.com/deploy?template=https://github.com/leandroap/wekan/tree/master
 [indiehosters_button]: https://indie.host/signup.png
 [indiehosters_saas]: https://indiehosters.net/shop/product/wekan-20
 [scalingo_button]: https://cdn.scalingo.com/deploy/button.svg
-[scalingo_deploy]: https://my.scalingo.com/deploy?source=https://github.com/wekan/wekan#master
+[scalingo_deploy]: https://my.scalingo.com/deploy?source=https://github.com/leandroap/wekan#master
 [cloudron_button]: https://cloudron.io/img/button.svg
 [cloudron_install]: https://cloudron.io/button.html?app=io.wekan.cloudronapp
